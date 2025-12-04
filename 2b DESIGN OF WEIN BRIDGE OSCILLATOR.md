@@ -1,3 +1,4 @@
+
 ## Exp. No. 2(b)
 **Date:**  
 
@@ -34,4 +35,3 @@ Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
 
 - **(i) Theoretical Frequency:**  
 - **(ii) Practical Frequency:**  
-
