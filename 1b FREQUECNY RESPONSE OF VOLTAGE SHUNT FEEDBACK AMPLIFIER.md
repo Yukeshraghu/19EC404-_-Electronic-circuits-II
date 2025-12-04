@@ -1,6 +1,5 @@
-
 ## Exp. No. 1(b)
-**Date:**  
+**Date:** 13.11.2025 
 
 ## FREQUECNY RESPONSE OF VOLTAGE SHUNT FEEDBACK AMPLIFIER
 <img width="822" height="889" alt="image" src="https://github.com/user-attachments/assets/a1f70018-04e2-4b1d-8a91-695ddb6af202" />
@@ -9,6 +8,12 @@
 <img width="723" height="995" alt="image" src="https://github.com/user-attachments/assets/591791ac-b321-4c7b-8223-582f9353519c" />
 
 # Circuit Diagram 
+
+<img width="987" height="1280" alt="image" src="https://github.com/user-attachments/assets/d941fe00-8836-4246-b00c-121b4e67e798" />
+
+<img width="1123" height="614" alt="image" src="https://github.com/user-attachments/assets/7986fabd-fa03-4aa9-b93e-06e3a6b5ed7b" />
+
+
 # Without Feedback:
 <img width="581" height="362" alt="image" src="https://github.com/user-attachments/assets/4b0a599c-6d35-4616-a306-2360b5f4f172" />
 
@@ -17,11 +22,11 @@
 
 # Tabulation
 
+<img width="1097" height="1280" alt="image" src="https://github.com/user-attachments/assets/edb87813-9f48-44bf-a094-dc4d11a6e6f1" />
 
 # Graph
 
-
-# Sample images 
+<img width="1280" height="988" alt="image" src="https://github.com/user-attachments/assets/bc173e07-8ab4-4a9c-8b3f-204618d94ecf" />
 
 
 ### **Result**
@@ -29,11 +34,11 @@
 Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency |f1 = 30Hz|f1' = 40Hz|
+| 2 | Upper cut-off frequency |f2 = 100KHz|f2' = 1MHz|
+| 3 | Bandwidth | \( BW = fh - fl = 70KHz\) | \( BW = f'h - f'l = 0.99MHz\) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 20.40\) | \( A'{v(mid)} = 19.71\) |
+| 5 | Gain at half power point |Go = 20  |Go' = 18  |
 
 ---
 
